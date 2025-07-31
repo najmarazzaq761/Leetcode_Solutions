@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
 ## Binary Tree
 |  |
 | ------- |
@@ -36,11 +38,13 @@
 | [0169-majority-element](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -49,4 +53,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
