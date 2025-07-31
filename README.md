@@ -14,6 +14,7 @@
 | [0219-contains-duplicate-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
