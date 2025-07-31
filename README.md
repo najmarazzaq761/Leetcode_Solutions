@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1205-defanging-an-ip-address) |
+| [3567-convert-date-to-binary](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/3567-convert-date-to-binary) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [3567-convert-date-to-binary](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/3567-convert-date-to-binary) |
 ## Bit Manipulation
 |  |
 | ------- |
