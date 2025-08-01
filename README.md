@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0217-contains-duplicate](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 ## Sliding Window
 |  |
 | ------- |
