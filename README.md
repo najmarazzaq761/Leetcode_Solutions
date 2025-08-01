@@ -22,6 +22,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | ------- |
 | [0283-move-zeroes](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 ## Design
 |  |
 | ------- |
@@ -112,4 +115,8 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
