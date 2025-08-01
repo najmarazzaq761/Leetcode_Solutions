@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -109,6 +110,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -125,4 +127,8 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
