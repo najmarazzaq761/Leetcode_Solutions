@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -99,6 +100,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -141,6 +143,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Queue
