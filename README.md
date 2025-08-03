@@ -6,6 +6,7 @@
 | [0020-valid-parentheses](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [1205-defanging-an-ip-address](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1205-defanging-an-ip-address) |
 | [3567-convert-date-to-binary](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/3567-convert-date-to-binary) |
 ## Array
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [3567-convert-date-to-binary](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/3567-convert-date-to-binary) |
 ## Bit Manipulation
