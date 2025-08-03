@@ -111,6 +111,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0086-partition-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0086-partition-list) |
 | [0283-move-zeroes](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -182,5 +183,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0086-partition-list) |
 | [0908-middle-of-the-linked-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
