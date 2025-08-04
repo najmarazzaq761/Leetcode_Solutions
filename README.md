@@ -106,6 +106,7 @@
 | [0168-excel-sheet-column-title](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [3567-convert-date-to-binary](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/3567-convert-date-to-binary) |
 ## Bit Manipulation
 |  |
@@ -160,6 +161,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
+| [1013-fibonacci-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -193,4 +195,12 @@
 | ------- |
 | [0086-partition-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0086-partition-list) |
 | [0908-middle-of-the-linked-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0908-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
