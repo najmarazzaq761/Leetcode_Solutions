@@ -10,6 +10,7 @@
 | [0205-isomorphic-strings](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [1205-defanging-an-ip-address](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1205-defanging-an-ip-address) |
 | [3567-convert-date-to-binary](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/3567-convert-date-to-binary) |
 ## Array
@@ -75,6 +76,7 @@
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 ## Sorting
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
