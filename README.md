@@ -13,6 +13,7 @@
 | [0344-reverse-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0874-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1205-defanging-an-ip-address) |
 | [3567-convert-date-to-binary](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/3567-convert-date-to-binary) |
@@ -87,6 +88,7 @@
 | [0290-word-pattern](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
@@ -110,6 +112,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -194,6 +197,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2195-time-needed-to-buy-tickets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Breadth-First Search
 |  |
