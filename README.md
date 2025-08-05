@@ -39,6 +39,7 @@
 | [0485-max-consecutive-ones](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [2195-time-needed-to-buy-tickets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2737-row-with-maximum-ones](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2737-row-with-maximum-ones) |
@@ -85,6 +86,7 @@
 | [0383-ransom-note](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [0225-implement-stack-using-queues](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -217,6 +220,7 @@
 | [0203-remove-linked-list-elements](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -230,4 +234,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
