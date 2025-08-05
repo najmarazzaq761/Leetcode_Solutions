@@ -43,6 +43,7 @@
 | [0495-teemo-attacking](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2737-row-with-maximum-ones](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2737-row-with-maximum-ones) |
@@ -174,6 +175,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0874-backspace-string-compare) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | [0225-implement-stack-using-queues](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Breadth-First Search
 |  |
@@ -217,6 +220,7 @@
 | ------- |
 | [0495-teemo-attacking](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
 | [0874-backspace-string-compare](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0874-backspace-string-compare) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
