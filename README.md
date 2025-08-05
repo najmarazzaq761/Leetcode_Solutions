@@ -156,6 +156,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
+| [0969-number-of-recent-calls](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0969-number-of-recent-calls) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -204,6 +205,7 @@
 | [0225-implement-stack-using-queues](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Breadth-First Search
@@ -260,4 +262,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
