@@ -35,6 +35,7 @@
 | [0283-move-zeroes](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0455-assign-cookies) |
@@ -70,6 +71,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0792-binary-search) |
 ## Binary Tree
 |  |
@@ -91,6 +93,7 @@
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0389-find-the-difference) |
@@ -105,6 +108,7 @@
 | [0217-contains-duplicate](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0455-assign-cookies) |
@@ -146,6 +150,7 @@
 | [0344-reverse-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0874-backspace-string-compare](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0908-middle-of-the-linked-list) |
