@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -130,6 +131,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
