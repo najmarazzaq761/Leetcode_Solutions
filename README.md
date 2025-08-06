@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -24,6 +25,7 @@
 | [0011-container-with-most-water](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -84,6 +86,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0169-majority-element) |
@@ -104,6 +107,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
