@@ -3,6 +3,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
@@ -106,6 +107,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -140,6 +142,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Counting
 |  |
