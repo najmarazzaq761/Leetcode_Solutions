@@ -52,6 +52,7 @@
 | [0496-next-greater-element-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
