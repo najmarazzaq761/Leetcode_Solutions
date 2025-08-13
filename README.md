@@ -33,6 +33,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -169,6 +170,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0389-find-the-difference) |
