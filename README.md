@@ -54,6 +54,7 @@
 | [0485-max-consecutive-ones](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -260,6 +261,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Queue
 |  |
