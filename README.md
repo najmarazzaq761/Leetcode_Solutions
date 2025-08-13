@@ -6,6 +6,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0035-search-insert-position) |
@@ -333,4 +335,8 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0969-number-of-recent-calls) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
