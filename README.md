@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
@@ -169,6 +170,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0086-partition-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0086-partition-list) |
@@ -234,6 +236,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [1013-fibonacci-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
