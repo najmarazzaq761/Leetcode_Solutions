@@ -102,6 +102,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0792-binary-search) |
@@ -372,4 +373,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0133-clone-graph) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
