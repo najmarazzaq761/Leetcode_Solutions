@@ -185,6 +185,7 @@
 | [0066-plus-one](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
@@ -276,6 +277,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -350,6 +352,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Hash Function
 |  |
