@@ -67,6 +67,7 @@
 | [0733-flood-fill](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
+| [1036-rotting-oranges](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -317,11 +318,13 @@
 | [0226-invert-binary-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [2737-row-with-maximum-ones](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
 |  |
