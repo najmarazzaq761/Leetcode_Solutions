@@ -141,6 +141,7 @@
 | [0133-clone-graph](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
@@ -233,6 +234,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -347,6 +349,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
@@ -399,4 +402,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0278-first-bad-version) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
