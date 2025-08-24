@@ -78,6 +78,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0169-majority-element) |
 ## Tree
@@ -346,6 +347,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
@@ -406,4 +408,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0146-lru-cache) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
