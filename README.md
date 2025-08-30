@@ -69,6 +69,7 @@
 | [0495-teemo-attacking](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
@@ -190,6 +191,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Counting
 |  |
 | ------- |
