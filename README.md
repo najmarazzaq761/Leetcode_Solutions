@@ -109,6 +109,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0278-first-bad-version](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1023-time-based-key-value-store) |
 ## Binary Tree
@@ -142,6 +144,7 @@
 | [0226-invert-binary-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
