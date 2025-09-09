@@ -11,10 +11,11 @@ class Solution:
                 return root
             elif root.val > val:
                 return self.searchBST(root.left , val)
-            elif root.val < val:
-                return self.searchBST(root.right , val)
             else:
-                return null
+                return self.searchBST(root.right , val)
+        return None
+            
+               
 
 
         
