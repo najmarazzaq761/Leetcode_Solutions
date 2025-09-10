@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -118,6 +119,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0069-sqrtx) |
+| [0095-unique-binary-search-trees-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -314,6 +317,7 @@
 | [0005-longest-palindromic-substring](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -413,6 +417,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0095-unique-binary-search-trees-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 ## Data Stream
