@@ -208,6 +208,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0048-rotate-image) |
@@ -372,6 +373,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
@@ -391,6 +393,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
