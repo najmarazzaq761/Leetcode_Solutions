@@ -72,6 +72,7 @@
 | [0605-can-place-flowers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [1036-rotting-oranges](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
@@ -280,6 +281,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0874-backspace-string-compare) |
@@ -366,6 +368,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
