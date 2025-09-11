@@ -75,6 +75,7 @@
 | [0739-daily-temperatures](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
+| [0907-koko-eating-bananas](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -128,6 +129,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1023-time-based-key-value-store) |
 ## Binary Tree
 |  |
