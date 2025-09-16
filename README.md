@@ -73,6 +73,7 @@
 | [0496-next-greater-element-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0792-binary-search) |
@@ -289,6 +290,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -371,6 +373,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
+| [0682-baseball-game](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0874-backspace-string-compare) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
