@@ -48,6 +48,7 @@
 | [0049-group-anagrams](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
@@ -234,6 +235,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
@@ -427,6 +429,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
