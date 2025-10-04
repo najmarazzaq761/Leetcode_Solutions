@@ -122,6 +122,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0933-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
+| [0933-increasing-order-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1023-time-based-key-value-store](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1023-time-based-key-value-store) |
 ## Binary Tree
 |  |
@@ -162,6 +164,7 @@
 | [0257-binary-tree-paths](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0933-increasing-order-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -306,6 +309,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0874-backspace-string-compare) |
+| [0933-increasing-order-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Depth-First Search
@@ -329,6 +333,7 @@
 | [0733-flood-fill](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0933-increasing-order-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
