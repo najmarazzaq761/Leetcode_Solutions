@@ -123,6 +123,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0933-increasing-order-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0907-koko-eating-bananas](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [0933-increasing-order-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1023-time-based-key-value-store](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1023-time-based-key-value-store) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0933-increasing-order-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -334,6 +337,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0933-increasing-order-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
