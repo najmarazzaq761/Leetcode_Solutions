@@ -7,13 +7,13 @@
 class Solution:
     def bstToGst(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         sum = 0
-        def helper(node):
+        def check(node):
             nonlocal sum
             if not node:
                 return 
-            helper(node.right)
-            sum += node.val
+            check(node.right)
+            sum+= node.val
             node.val = sum
-            helper(node.left)
-        helper(root)
+            check(node.left)
+        check(root)
         return root
