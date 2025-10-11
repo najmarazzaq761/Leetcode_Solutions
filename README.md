@@ -118,6 +118,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
+| [0538-convert-bst-to-greater-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -139,6 +140,7 @@
 | [0278-first-bad-version](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0538-convert-bst-to-greater-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
@@ -164,6 +166,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
+| [0538-convert-bst-to-greater-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0933-increasing-order-search-tree) |
@@ -332,6 +335,7 @@
 | [0226-invert-binary-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0463-island-perimeter) |
+| [0538-convert-bst-to-greater-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
