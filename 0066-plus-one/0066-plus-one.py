@@ -1,7 +1,7 @@
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
-        n=len(digits)
-        for i in reversed(range(n)):
+
+        for i in reversed(range(len(digits))):
             if digits[i]<9:
                 digits[i]+=1
                 return digits
