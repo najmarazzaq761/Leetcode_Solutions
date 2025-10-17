@@ -26,6 +26,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0874-backspace-string-compare](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0874-backspace-string-compare) |
 | [1023-time-based-key-value-store](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1023-time-based-key-value-store) |
 | [1205-defanging-an-ip-address](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1205-defanging-an-ip-address) |
@@ -76,6 +77,7 @@
 | [0485-max-consecutive-ones](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0682-baseball-game) |
@@ -199,6 +201,7 @@
 | [0409-longest-palindrome](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [1023-time-based-key-value-store](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1023-time-based-key-value-store) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
