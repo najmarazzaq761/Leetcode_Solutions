@@ -85,6 +85,7 @@
 | [0739-daily-temperatures](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [0907-koko-eating-bananas](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -203,6 +204,7 @@
 | [0496-next-greater-element-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [1023-time-based-key-value-store](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1023-time-based-key-value-store) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
@@ -294,6 +296,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [0969-number-of-recent-calls](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1023-time-based-key-value-store) |
 ## Prefix Sum
@@ -429,6 +432,7 @@
 | [0234-palindrome-linked-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -451,6 +455,7 @@
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 ## Backtracking
 |  |
 | ------- |
