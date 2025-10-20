@@ -5,11 +5,13 @@ class Solution:
         if len(s) != len(t):
             return False
         dict1 = {}
-        dict2 = {}
-
         for i in s:
             dict1[i] = dict1.get(i,0) + 1
         for j in t:
-            dict2[j] = dict2.get(j,0) + 1
-        
-        return dict1 == dict2
+            if j in dict1:
+                dict1[j] -= 1
+                if dict1[j] == 0:
+                    del dict1[j]
+            else:
+                return False        
+        return not dict1
