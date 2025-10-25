@@ -45,6 +45,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0048-rotate-image) |
@@ -181,6 +182,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0139-word-break) |
@@ -395,6 +397,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0733-flood-fill) |
