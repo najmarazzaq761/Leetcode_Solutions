@@ -9,10 +9,28 @@ class Solution:
             if freq[char] == 1:
                 queue.append((char, i))
         
-    
-        # return queue[0][1] if queue else -1
         if queue:
-            return queue[0][1]
+                return queue[0][1]
         else:
-            return -1 
-            
+                return -1  
+        
+
+
+
+
+
+
+
+
+
+
+
+# queue = deque()  #  Clear intent: This is a FIFO queue
+# queue = []       #  Ambiguous: Could be stack, list, or queue?             
+# # Scenario: We need to remove from front (like in the earlier MinStack approach)
+
+# # With regular list - POOR PERFORMANCE:
+# queue.pop(0)           #  O(n) - all elements must shift!
+
+# # With deque - EXCELLENT PERFORMANCE:  
+# queue.popleft()        #  O(1) - constant time
