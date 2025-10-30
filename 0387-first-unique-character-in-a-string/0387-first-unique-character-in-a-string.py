@@ -1,8 +1,13 @@
-from collections import Counter
+from collections import deque, Counter
+
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        count = Counter(s)
-        for i,ch in enumerate(s):
-            if count[ch] == 1:
-                return i
-        return -1
+        freq = Counter(s)
+        queue = deque()
+        
+        for i, char in enumerate(s):
+            if freq[char] == 1:
+                queue.append((char, i))
+        
+        # The first element in our queue is the answer
+        return queue[0][1] if queue else -1
