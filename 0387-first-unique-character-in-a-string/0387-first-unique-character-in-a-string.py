@@ -10,4 +10,9 @@ class Solution:
                 queue.append((char, i))
         
         # The first element in our queue is the answer
-        return queue[0][1] if queue else -1
+        # return queue[0][1] if queue else -1
+        if queue:
+            return queue[0][1]
+        else:
+            return -1 
+            
