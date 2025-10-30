@@ -7,7 +7,7 @@ class Solution:
         
         for i, char in enumerate(s):
             if freq[char] == 1:
-                queue.append((char, i))
+                queue.append([char, i])
         
         if queue:
                 return queue[0][1]
