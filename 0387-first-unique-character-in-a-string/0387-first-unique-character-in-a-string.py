@@ -2,17 +2,32 @@ from collections import deque, Counter
 
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        freq = Counter(s)
-        queue = []
+        # freq = Counter(s)
+        # queue = deque()
         
-        for i, char in enumerate(s):
-            if freq[char] == 1:
-                queue.append([char, i])
+        # for i, char in enumerate(s):
+        #     if freq[char] == 1:
+        #         queue.append((char, i))
         
-        if queue:
-                return queue[0][1]
-        else:
-                return -1  
+        # if queue:
+        #         return queue[0][1]
+        # else:
+        #         return -1  
+
+    
+        queue = []        
+        count = {}         
+        front = 0       
+        for i, ch in enumerate(s):
+            count[ch] = count.get(ch, 0) + 1
+            queue.append((ch, i))   
+
+            
+            while front < len(queue) and count[queue[front][0]] > 1:
+                front += 1   
+
+        
+        return queue[front][1] if front < len(queue) else -1
         
 
 
