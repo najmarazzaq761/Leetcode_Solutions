@@ -8,11 +8,20 @@ class Solution:
         prev = None
         curr = head
         while curr:
-            tempNext = curr.next
+            temp = curr.next
             curr.next = prev
             prev = curr
-            curr = tempNext
+            curr = temp
         return prev
+
+
+
+
+
+
+
+
+
 
         # stack = []
         # temp = head
