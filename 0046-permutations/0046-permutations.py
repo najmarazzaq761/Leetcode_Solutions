@@ -1,5 +1,6 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
+    
         perms = [[]]
         for n in nums:
             new_perms = []
