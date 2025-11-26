@@ -26,6 +26,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0874-backspace-string-compare](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0874-backspace-string-compare) |
 | [1023-time-based-key-value-store](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1023-time-based-key-value-store) |
@@ -257,6 +258,7 @@
 | [0168-excel-sheet-column-title](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3567-convert-date-to-binary](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/3567-convert-date-to-binary) |
@@ -412,6 +414,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0874-backspace-string-compare) |
