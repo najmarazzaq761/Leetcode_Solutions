@@ -257,6 +257,7 @@
 | [0070-climbing-stairs](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
@@ -414,6 +415,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0682-baseball-game) |
@@ -519,4 +521,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
