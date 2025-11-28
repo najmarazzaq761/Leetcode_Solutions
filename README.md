@@ -91,6 +91,7 @@
 | [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [0907-koko-eating-bananas](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1528-shuffle-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1528-shuffle-string) |
@@ -403,6 +404,7 @@
 | [0226-invert-binary-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
@@ -411,6 +413,7 @@
 | [0048-rotate-image](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [2737-row-with-maximum-ones](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
