@@ -28,6 +28,7 @@
 | [0409-longest-palindrome](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0500-keyboard-row) |
+| [0551-student-attendance-record-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0551-student-attendance-record-i) |
 | [0874-backspace-string-compare](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0874-backspace-string-compare) |
 | [1023-time-based-key-value-store](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1023-time-based-key-value-store) |
 | [1205-defanging-an-ip-address](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1205-defanging-an-ip-address) |
