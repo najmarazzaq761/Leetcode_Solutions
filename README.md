@@ -263,6 +263,7 @@
 | [0258-add-digits](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3567-convert-date-to-binary](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/3567-convert-date-to-binary) |
@@ -373,6 +374,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
@@ -462,12 +464,14 @@
 | [0203-remove-linked-list-elements](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0139-word-break) |
+| [0509-fibonacci-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Hash Function
 |  |
