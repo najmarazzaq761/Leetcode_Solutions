@@ -98,6 +98,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1528-shuffle-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1528-shuffle-string) |
 | [1603-running-sum-of-1d-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -217,6 +218,7 @@
 | [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [1023-time-based-key-value-store](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1023-time-based-key-value-store) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
@@ -236,6 +238,7 @@
 | [0389-find-the-difference](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sliding Window
 |  |
@@ -303,6 +306,7 @@
 | [0455-assign-cookies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0874-backspace-string-compare](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Design
 |  |
