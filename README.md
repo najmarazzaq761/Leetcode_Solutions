@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
@@ -376,6 +377,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -492,6 +494,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0078-subsets) |
