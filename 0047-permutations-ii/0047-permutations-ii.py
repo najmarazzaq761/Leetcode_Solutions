@@ -1,14 +1,10 @@
 class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
-        temp = []
         result = []
         n = len(nums)
         freq = {}
         for num in nums:
-            if num in freq:
-                freq[num]+=1
-            else:
-                freq[num] = 1
+            freq[num] = freq.get(num, 0) + 1
 
         def backtrack(temp):
             if len(temp) == n:
