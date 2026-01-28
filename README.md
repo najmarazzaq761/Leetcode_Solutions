@@ -52,6 +52,7 @@
 | [0036-valid-sudoku](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
@@ -227,6 +228,7 @@
 | ------- |
 | [0015-3sum](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -497,6 +499,7 @@
 | [0022-generate-parentheses](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
