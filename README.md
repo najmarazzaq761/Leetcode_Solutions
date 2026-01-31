@@ -14,6 +14,7 @@
 | [0049-group-anagrams](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -59,6 +60,7 @@
 | [0056-merge-intervals](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
@@ -354,6 +356,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
@@ -427,6 +430,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
@@ -501,6 +505,7 @@
 | [0046-permutations](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
