@@ -106,6 +106,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2195-time-needed-to-buy-tickets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -449,6 +450,7 @@
 | [0682-baseball-game](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0874-backspace-string-compare) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2470-removing-stars-from-a-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
