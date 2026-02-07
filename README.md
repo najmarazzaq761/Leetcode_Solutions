@@ -100,6 +100,7 @@
 | [0907-koko-eating-bananas](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1528-shuffle-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1528-shuffle-string) |
 | [1603-running-sum-of-1d-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -245,6 +246,7 @@
 | [0389-find-the-difference](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -541,6 +543,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
