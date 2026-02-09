@@ -161,6 +161,7 @@
 | [0278-first-bad-version](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0538-convert-bst-to-greater-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0792-binary-search) |
@@ -536,6 +537,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Doubly-Linked List
 |  |
 | ------- |
