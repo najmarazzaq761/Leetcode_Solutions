@@ -331,6 +331,7 @@
 | [0303-range-sum-query-immutable](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0817-design-hashmap) |
+| [0901-online-stock-span](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1023-time-based-key-value-store) |
 ## Prefix Sum
@@ -355,6 +356,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0874-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 | [0933-increasing-order-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -459,6 +461,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -519,6 +522,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0969-number-of-recent-calls) |
 ## Trie
 |  |
