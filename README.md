@@ -287,6 +287,7 @@
 | [0509-fibonacci-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2652-sum-multiples](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2652-sum-multiples) |
 | [3567-convert-date-to-binary](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/3567-convert-date-to-binary) |
 ## Bit Manipulation
 |  |
