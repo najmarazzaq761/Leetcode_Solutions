@@ -36,6 +36,7 @@
 | [1023-time-based-key-value-store](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1023-time-based-key-value-store) |
 | [1205-defanging-an-ip-address](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1528-shuffle-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [3567-convert-date-to-binary](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/3567-convert-date-to-binary) |
 ## Array
@@ -366,6 +367,7 @@
 | [0874-backspace-string-compare](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0874-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 | [0933-increasing-order-search-tree](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0933-increasing-order-search-tree) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Depth-First Search
@@ -582,4 +584,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/0561-array-partition) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
