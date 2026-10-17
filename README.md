@@ -597,5 +597,6 @@
 ## Database
 |  |
 | ------- |
+| [1683-invalid-tweets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
