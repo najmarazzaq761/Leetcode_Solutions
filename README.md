@@ -597,6 +597,7 @@
 ## Database
 |  |
 | ------- |
+| [1068-product-sales-analysis-i](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/najmarazzaq761/Leetcode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
